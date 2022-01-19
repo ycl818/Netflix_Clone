@@ -42,7 +42,7 @@ function Banner() {
         {/* div > 2 button  */}
         <div className="banner_buttons">
           <button className="banner_button">Play</button>
-          <button className="banner_button">My List</button>
+          <button className="banner_button">More info</button>
         </div>
         {/* description */}
         <h1 className="banner__description">
