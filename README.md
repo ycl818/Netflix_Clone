@@ -3,10 +3,12 @@
 ## Demo
 link in here [https://netflix-clone-c7e55.firebaseapp.com/]
 
+![](https://github.com/ycl818/Netflix_Clone/blob/master/public/20220124_netflix-1.PNG)
+![](https://github.com/ycl818/Netflix_Clone/blob/master/public/20220124_neflix-2.PNG)
 ## Feature
 There are many types of movies or drama list in the rows
 Click each picture to see the related movie trailer connected to Youtube videos.
-
+![](https://github.com/ycl818/Netflix_Clone/blob/master/public/20220124_netflix-3.PNG)
 ## Running Development Server
 1. clone this project to local
 2. Download the package:
