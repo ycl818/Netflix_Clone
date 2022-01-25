@@ -1,4 +1,4 @@
-# Netflix-Clone
+# Netflix-Clone (React.js)
 
 ## Demo
 link in here [https://netflix-clone-c7e55.firebaseapp.com/]
