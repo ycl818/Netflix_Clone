@@ -37,6 +37,8 @@ function Row({ title, fetchUrl, isLargeRow }) {
     // if opened close it
     if (trailerUrl) {
       setTrailerUrl("");
+    } else if (movie.id == "99966") {
+      return setTrailerUrl("IN5TD4VRcSM");
     } else if (movie.id == "93405") {
       //squid game
       return setTrailerUrl("sH4Y450PSVM");
